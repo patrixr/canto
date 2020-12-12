@@ -1,0 +1,60 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "name": "First steps",
+      "questions": [
+        {
+          "eng": "good morning",
+          "yale": "joú sàhn"
+        },
+        {
+          "eng": "Do you have any questions ?",
+          "yale": "néih yáuh móuh mahn tàih ?"
+        },
+        {
+          "eng": "How are you ?",
+          "yale": "néih hóu ma ?"
+        },
+        {
+          "eng": "I am very good",
+          "yale": "ngóh hóu hóu"
+        },
+        {
+          "eng": "I am quite good",
+          "yale": "ngóh géi hóu"
+        },
+        {
+          "eng": "Where are you from ?",
+          "yale": "néih bīn douh yàhn a ?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Greeting friends",
+      "questions": [
+        {
+          "eng": "How are you ?",
+          "yale": "néih hóu ma ?"
+        },
+        {
+          "eng": "What is your surname ?",
+          "yale": "néih gwai sing a ?"
+        },
+        {
+          "eng": "What is your name ?",
+          "yale": "néih giu jouh māt yéh méng a ?"
+        },
+        {
+          "eng": "I am Patrick",
+          "yale": "ngóh giu Patrick"
+        },
+        {
+          "eng": "I am American, and you ?",
+          "yale": "ngóh haih Méih Gwok yàhn, néih nē ?"
+        }
+      ]
+    }
+  ]
+}

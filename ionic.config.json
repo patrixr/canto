@@ -1,0 +1,7 @@
+{
+  "name": "canto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
