@@ -1,12 +1,18 @@
-name: Greeting friends
+name: Chatting
 questions:
-  - eng: How are you ?
-    yale: néih hóu ma ?
-  - eng: What is your surname ?
-    yale: néih gwai sing a ?
-  - eng: What is your name ?
-    yale: néih giu jouh māt yéh méng a ?
-  - eng: I am Patrick
-    yale: ngóh giu Patrick
-  - eng: I am American, and you ?
-    yale: ngóh haih Méih Gwok yàhn, néih nē ?
+  - eng: Do you have any questions ?
+    yale: néih yáuh móuh mahn tàih ?
+  - eng: I like drinking fruit juice
+    yale: ngóh jūng yi yám gwó jāp
+  - eng: Do you like Hong Kong ?
+    yale: néih jūng mh jūng yi Hēung Góng a ?
+  - eng: I like Hong Kong very much, and you ?
+    yale: ngóh hóu jūng yi Hēung Góng. néih ne ?
+  - eng: I like Japanese cars
+    yale: ngóh jūng yi Yaht Bún chē
+  - eng: What tea do you like ?
+    yale: néih jūng yi yám māt yéh chàh a ?
+  - eng: I also like Chinese food
+    yale: ngóh dōu jūng sihk Jūng Gwok choi
+  - eng: Where does your husband come from ?
+    yale: néih sīn sāang haih bīn douh yàhn a ?
